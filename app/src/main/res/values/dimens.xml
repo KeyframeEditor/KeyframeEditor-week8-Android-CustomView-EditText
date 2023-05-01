@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edittext_padding_left">12dp</dimen>
+    <dimen name="edittext_padding_right">12dp</dimen>
+    <dimen name="edittext_padding_top">12dp</dimen>
+    <dimen name="edittext_padding_bottom">12dp</dimen>
+    <dimen name="edittext_textsize">16sp</dimen>
+    <dimen name="edittext_corner_radius">8dp</dimen>
+    <dimen name="edittext_cursor_width">2dp</dimen>
+</resources>
